@@ -1,12 +1,12 @@
 # Hi, I'm Jifhna P N
 
-Aspiring Data Scientist | Artificial Intelligence | Machine Learning | Deep Learning 
+### Aspiring Data Scientist | Machine Learning | Deep Learning | Artificial Intelligence
 
 I am an MCA graduate with a strong interest in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.
 
 I enjoy working with data, identifying patterns, developing machine learning solutions, and building practical applications using Python and related technologies.
 
-Technical Skills
+### Technical Skills
 
 * **Programming:** Python, SQL
 * **Data Science:** Pandas, NumPy, Matplotlib
