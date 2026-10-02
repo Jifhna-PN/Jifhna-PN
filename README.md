@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Jifhna P N
 
-<!--
-**Jifhna-PN/Jifhna-PN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist | Artificial Intelligence | Machine Learning | Deep Learning 
 
-Here are some ideas to get you started:
+I am an MCA graduate with a strong interest in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, identifying patterns, developing machine learning solutions, and building practical applications using Python and related technologies.
+
+Technical Skills
+
+* **Programming:** Python, SQL
+* **Data Science:** Pandas, NumPy, Matplotlib
+* **Machine Learning:** Scikit-learn, Supervised Learning, Model Evaluation
+* **Deep Learning:** Neural Networks
+* **Computer Vision:** OpenCV, MediaPipe
+* **Visualization:** Power BI
+* **Application Development:** Streamlit
+
+### Featured Projects
+
+* **AgentSec-AI** — AI-Agent Shadow IT API Exploitation Detection
+* **Career Path Explorer** — Python & Streamlit Application
+* **EV Charging Intelligence** — Power BI Dashboard
+* **Computer Vision & MediaPipe Projects**
+* **Blockchain Federated Learning** — Research Project
+
+### Research
+
+**Blockchain Federated Learning Framework for Privacy-Preservation**
+
+Research work completed during my MCA at Cochin University of Science and Technology (CUSAT), focusing on privacy-preserving machine learning using Federated Learning and Blockchain.
+
+### Connect With Me
+
+* LinkedIn: Add your LinkedIn profile link here
