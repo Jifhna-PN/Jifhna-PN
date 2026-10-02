@@ -11,7 +11,7 @@ I enjoy working with data, identifying patterns, developing machine learning sol
 * **Programming:** Python, SQL
 * **Data Science:** Pandas, NumPy, Matplotlib
 * **Machine Learning:** Scikit-learn, Supervised Learning, Model Evaluation
-* **Deep Learning:** Neural Networks
+* **Deep Learning:** Neural Networks, Tensorflow
 * **Computer Vision:** OpenCV, MediaPipe
 * **Visualization:** Power BI
 * **Application Development:** Streamlit
@@ -21,7 +21,6 @@ I enjoy working with data, identifying patterns, developing machine learning sol
 * **AgentSec-AI** — AI-Agent Shadow IT API Exploitation Detection
 * **Career Path Explorer** — Python & Streamlit Application
 * **EV Charging Intelligence** — Power BI Dashboard
-* **Computer Vision & MediaPipe Projects**
 * **Blockchain Federated Learning** — Research Project
 
 ### Research
@@ -32,4 +31,4 @@ Research work completed during my MCA at Cochin University of Science and Techno
 
 ### Connect With Me
 
-* LinkedIn: Add your LinkedIn profile link here
+* LinkedIn: https://www.linkedin.com/in/jifhna-p-n/
